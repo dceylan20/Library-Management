@@ -1,5 +1,1 @@
-# Library Management Project
-Allah utandırmasın
-
-MAŞALLAH 
-
+ Library Management Project
